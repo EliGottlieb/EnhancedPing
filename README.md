@@ -6,7 +6,7 @@ Targets.txt - text file with target websites.
 This python script does require root access.
 
 Output will occurr when probing packets are sent to websites, when ICMP packets are matched, and when receive socket times out.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Several external sources were used when researching this project, the URLs listed below are specifically websites with code that I read and/or reused in my project.
 
 Source - concepts of the code that I read/reused
